@@ -23,6 +23,7 @@ export default {
 
 .home h1 {
   text-align: left;
+  color: white;
 }
 
 .home p {

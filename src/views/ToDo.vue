@@ -94,7 +94,7 @@
     font-size: 32px;
     font-weight: 600;
     margin-bottom: 40px;
-    color: #f1f7fc;
+    color: white;
   }
   
   form {
